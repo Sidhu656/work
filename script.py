@@ -1,15 +1,15 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hello {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call me Tessa💝 
 
-This is Version 2 of Auto Filter Bot
+ഞാൻ തികച്ചും @movies656 ഗ്രൂപ്പിലേക്ക് ആണ്. ഞാൻ ആണ് ആ ഗ്രൂപ്പിൽ സിനിമകൾ നൽകുന്നത്😊
 
-Bot gives button link to files in connected channels on query !
+എന്നെ ഉണ്ടാക്കിയത് SIDHU ആണ്...😍 !
 
-No need to add filters for your files or movies from now on!
+അദേഹത്തിന്റെ സഹായം ഇല്ലാതെ എന്നെ GROUP ൽ ADD ചെയ്തിട്ട് കാര്യമില്ല...😂🤣
 
 For more click <i>help</i></b>"""
 
@@ -17,20 +17,20 @@ For more click <i>help</i></b>"""
     HELP_MSG = """<b>How to use the bot??</b>
 
 <i>
-* Add bot to your group with admin rights.
+* എന്നെ USE ചെയ്യാൻ ഒരു വഴിയും ഇല്ല 😂.
 
-* Add bot to channels which you want to link with <b>all admin rights</b>!
+* എന്നെ പോലെയുള്ള BOT വേണെങ്കിൽ <b>MSG @creatorofsomething</b>!
 </i>
 
 
 <b>Bot Commands - Works in Group only</b>
 (You need to be a Auth User in order to use these commands)
 
-* <code>/add channelid</code>  -  Links channel to your group.
+* <code>JOIN</code>  -  @movies656
 or
 * <code>/add @channelusername</code> - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : You can get all moviesfrom @movies656</i>
 
 
 * <code>/del channelid</code>  -  Delinks channel from group
@@ -49,16 +49,16 @@ or
 
 
 
-No need add each filter again!
-Bot will automatically search for your files and give links to that!
+No need to add this bot. It will destroy your group😏!
+Msg @creatorofsomething to use me
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @creatorofsomething</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Tessa</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @creatorofsomething
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
